@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text_Recognition_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Text_Recognition_App.iml" group="Text_Recognition_App" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Text Recognition App/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_OCR.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_OCR.iml" group="Android_OCR" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Android OCR/app" />
     </modules>
   </component>
 </project>

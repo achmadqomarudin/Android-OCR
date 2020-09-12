@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Text Recognition App"
+rootProject.name = "Android OCR"
