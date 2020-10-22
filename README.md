@@ -14,7 +14,11 @@ Repo to demonstrate Optical Character Recognition in Android. This is a follow u
 
 # Demo App
 
-[Demo Download](https://github.com/achmadqomarudin/Android-OCR/blob/master/screenshots/app-demo.apk)
+<p align="center">
+  <a href="https://github.com/achmadqomarudin/Android-OCR/releases/latest/download/app-demo.apk">
+    <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="100">
+  </a>
+</p>
 
 <table style="width:100%">
   <tr>
